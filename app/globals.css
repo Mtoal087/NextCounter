@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.btn {
+  @apply flex justify-center items-center;
+  @apply w-5;
+  @apply rounded-md border-2;
+}

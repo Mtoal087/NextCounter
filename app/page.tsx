@@ -20,13 +20,13 @@ export default function Home() {
 
 
             {/* Button 'Add' */}
-            <button className="w-4/5 cursor-pointer text-4xl  border-4 border-green-700 py-3 rounded-xl hover:bg-green-300 hover:text-slate-800 font-bold shadow-md hover:shadow-2xl sm:mx-12"
+            <button className="w-4/5 cursor-pointer text-4xl  border-4 border-green-700 py-3 rounded-xl hover:bg-green-300 hover:text-slate-800 font-bold shadow-md hover:shadow-2xl sm:mx-12 hover:bg-opacity-70"
             onClick={() => setCount(count + 1)}
             >Add</button>
 
 
             {/* Button 'Subtract' */}
-            <button className="w-4/5 cursor-pointer hover:bg-red-300 text-4xl border-4 border-red-700 py-3 rounded-xl font-bold shadow-md hover:shadow-2xl hover:text-slate-800 sm:mx-12"
+            <button className="w-4/5 cursor-pointer hover:bg-red-300 text-4xl border-4 border-red-700 py-3 rounded-xl font-bold shadow-md hover:shadow-2xl hover:text-slate-800 sm:mx-12 hover:bg-opacity-70"
             onClick={() => setCount(count - 1)}
             >Subtract</button>
 

@@ -14,7 +14,7 @@ A simple counting app built with Next.js and Tailwind CSS.
 
 ## Introduction
 
-The Counter app is a minimalistic web application designed to help users practice and learn Next.js and Tailwind CSS. It provides a straightforward interface for counting, making it an ideal project for those new to these technologies.
+The Counter app is used to learn Next.js, TailwindCSS, and TypeScript. It offers a user-friendly interface for counting.
 
 ## Features
 
@@ -28,7 +28,7 @@ Follow these steps to get the app up and running on your local machine.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Counter.git
+    git clone https://github.com/mtoal087/Counter.git
     ```
     
 2. Navigate to the project directory:
